@@ -1,97 +1,241 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# 🚀 VEXORA'26 — 6 Hours Hackathon
 
-# Getting Started
+> **Hack. Build. Innovate. Impact.**
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+VEXORA'26 is a **6-hour hackathon** presented by the **Department of Computer Engineering, St. John College of Engineering and Management**, under **Aldel Education Trust**.
 
-## Step 1: Start Metro
+The event challenges teams to turn a selected problem statement into a working, meaningful prototype within a limited development window.
 
-First, you will need to run **Metro**, the JavaScript build tool for React Native.
+---
 
-To start the Metro dev server, run the following command from the root of your React Native project:
+## 🏫 Event Details
 
-```sh
-# Using npm
-npm start
+| Detail | Information |
+|---|---|
+| **Event** | VEXORA'26 |
+| **Type** | 6 Hours Hackathon |
+| **Organizer** | Department of Computer Engineering |
+| **Institution** | St. John College of Engineering and Management |
+| **Trust** | Aldel Education Trust |
+| **Prize Pool** | ₹5,000 |
+| **Team Size** | Up to 4 members |
+| **Prizes** | 1st, 2nd & 3rd Overall |
 
-# OR using Yarn
-yarn start
-```
+The official rulebook identifies **Priyanka Kamble** as a faculty coordinator and **Nilesh Sharma** and **Satyam Mahto** as student coordinators.
 
-## Step 2: Build and run your app
+---
 
-With Metro running, open a new terminal window/pane from the root of your React Native project, and use one of the following commands to build and run your Android or iOS app:
+## 🎯 What is VEXORA'26?
 
-### Android
+VEXORA'26 is designed around a simple idea:
 
-```sh
-# Using npm
-npm run android
+**Identify a problem → Build a solution → Demonstrate the impact.**
 
-# OR using Yarn
-yarn android
-```
+Participants select a problem statement and develop a solution during the **6-hour hackathon window**. The focus is not only on having an idea, but on producing a **working prototype** that can be explained and demonstrated to the judging panel.
 
-### iOS
+---
 
-For iOS, remember to install CocoaPods dependencies (this only needs to be run on first clone or after updating native deps).
+## 💡 Problem Statements
 
-The first time you create a new project, run the Ruby bundler to install CocoaPods itself:
+Each team must build a solution based on the **problem statement selected by the team**.
 
-```sh
-bundle install
-```
+Your project should demonstrate:
 
-Then, and every time you update your native dependencies, run:
+- Clear understanding of the selected problem
+- A practical and relevant solution
+- Meaningful functionality
+- A working prototype
+- Technical implementation
+- Potential user impact
 
-```sh
-bundle exec pod install
-```
+---
 
-For more information, please visit [CocoaPods Getting Started guide](https://guides.cocoapods.org/using/getting-started.html).
+## 👥 Team Rules
 
-```sh
-# Using npm
-npm run ios
+- Each team can have **up to 4 members**.
+- A participant can be part of **only one team**.
+- Cross-team collaboration is not allowed.
+- Teams may seek guidance from mentors and organizers.
 
-# OR using Yarn
-yarn ios
-```
+---
 
-If everything is set up correctly, you should see your new app running in the Android Emulator, iOS Simulator, or your connected device.
+## ⏱️ Hackathon Duration
 
-This is one way to run your app — you can also build it directly from Android Studio or Xcode.
+The hackathon duration is strictly **6 hours**.
 
-## Step 3: Modify your app
+> ⚠️ **No extra time will be provided.**
 
-Now that you have successfully run the app, let's make changes!
+Teams should therefore prioritize a functional MVP and ensure that their core workflow is demonstrable before the deadline.
 
-Open `App.tsx` in your text editor of choice and make some changes. When you save, your app will automatically update and reflect these changes — this is powered by [Fast Refresh](https://reactnative.dev/docs/fast-refresh).
+---
 
-When you want to forcefully reload, for example to reset the state of your app, you can perform a full reload:
+## 🛠️ Development Rules
 
-- **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Dev Menu**, accessed via <kbd>Ctrl</kbd> + <kbd>M</kbd> (Windows/Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (macOS).
-- **iOS**: Press <kbd>R</kbd> in iOS Simulator.
+### Allowed
 
-## Congratulations! :tada:
+- Open-source libraries
+- Open-source frameworks
+- APIs
+- Development tools
+- AI tools for assistance
 
-You've successfully run and modified your React Native App. :partying_face:
+### Not Allowed
 
-### Now what?
+- Pre-built projects
+- Previously developed code
+- Plagiarism
+- Copying another team's solution
+- Sharing code or solutions between teams
+- Cheating
 
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [docs](https://reactnative.dev/docs/getting-started).
+All major project work must be completed **during the 6-hour hackathon**.
 
-# Troubleshooting
+---
 
-If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
+## 🤖 Use of AI Tools
 
-# Learn More
+AI tools may be used for assistance.
 
-To learn more about React Native, take a look at the following resources:
+However, every team must:
 
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+1. Understand the implementation they submit.
+2. Be able to explain how their solution works.
+3. Be able to demonstrate their working prototype.
+
+Using AI assistance does not remove the team's responsibility for understanding and presenting its implementation.
+
+---
+
+## 📦 Submission Requirements
+
+Before the submission deadline, each team must submit:
+
+- ✅ Working prototype
+- ✅ Source code
+- ✅ Project description
+- ✅ Presentation
+
+The submitted solution should be ready for demonstration to the judging panel.
+
+---
+
+## 🎤 Project Presentation
+
+Each team must **present and demonstrate its working prototype** to the judging panel.
+
+A strong presentation should clearly communicate:
+
+1. **Problem** — What problem are you solving?
+2. **Solution** — What did you build?
+3. **Functionality** — How does it work?
+4. **Implementation** — What technologies and approaches were used?
+5. **Impact** — Why does the solution matter?
+6. **Demo** — Show the working prototype.
+
+---
+
+## 🏆 Judging Criteria
+
+The official rulebook states that evaluation may consider:
+
+| Criteria | What to Demonstrate |
+|---|---|
+| 💡 **Innovation** | Originality and creativity of the solution |
+| 💻 **Technical Implementation** | Quality and effectiveness of the implementation |
+| ⚙️ **Functionality** | Whether the prototype actually works |
+| 🎯 **Problem Relevance** | How well the solution addresses the selected problem |
+| ✨ **User Experience** | Ease of use and overall experience |
+| 🌍 **Impact** | Potential usefulness and real-world value |
+| 🎤 **Presentation** | Clarity of explanation and quality of demonstration |
+
+---
+
+## 🥇 Prizes
+
+There will be **three overall prizes**:
+
+- 🥇 **First Prize**
+- 🥈 **Second Prize**
+- 🥉 **Third Prize**
+
+> There are **no problem-statement-wise prizes**.
+
+The total prize pool mentioned in the official event material is **₹5,000**.
+
+---
+
+## ⚖️ Fair Play & Discipline
+
+VEXORA'26 follows a strict fair-play policy.
+
+**Plagiarism, copying, cheating, or sharing code/solutions between teams is strictly prohibited and may result in disqualification.**
+
+The decision of the **judging panel and organizers is final**.
+
+Participants are expected to maintain discipline throughout the event.
+
+---
+
+## 💰 Registration
+
+The official rulebook states that the **registration fee is non-refundable**.
+
+The rulebook does not specify the registration fee amount in the provided material.
+
+---
+
+## 📞 Coordinators
+
+### Faculty Coordinator
+
+**Priyanka Kamble**  
+📱 7972993517
+
+### Student Coordinators
+
+**Nilesh Sharma**  
+📱 762025265
+
+**Satyam Mahto**  
+📱 9356272976
+
+---
+
+## 🏛️ Organized By
+
+**Department of Computer Engineering**  
+**St. John College of Engineering and Management**  
+**Aldel Education Trust**  
+**Autonomous Institute**  
+**NAAC Accredited with Grade A+**
+
+---
+
+## 🔥 Hackathon Mindset
+
+> **Don't just pitch an idea. Build it.**
+
+With only 6 hours available, teams should focus on:
+
+- Building the core functionality first
+- Keeping the MVP realistic
+- Testing the critical user flow
+- Preparing a reliable demo
+- Clearly explaining the technical implementation
+- Demonstrating measurable or practical impact
+
+---
+
+## 📜 Official Rules
+
+This README summarizes the information provided in the official **VEXORA Rule Book**.
+
+For complete event rules and final decisions, refer to the official rulebook provided by the organizers.
+
+---
+
+### VEXORA'26
+
+**Innovate → Build → Impact**
+
+**6 Hours. One Problem. One Working Solution.**
